@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "76C3B838-7E5B-49AD-B019-81A9FDF9D649"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95A30E5F-9BAA-4BB6-B5CA-7233855A1BA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tech-Assessment/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3AC564B-0A8E-4985-9E1F-D8C4B2269332"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3AC564B-0A8E-4985-9E1F-D8C4B2269332 - 48d906c00baa81a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tech_Assessment.ArticlesViewModel.getArticles() -&gt; ()"
+                  moduleName = "Tech-Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mekhakghapantsyan/Desktop/Tech-Assessment/Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "411">
+               </Location>
+               <Location
+                  uuid = "D3AC564B-0A8E-4985-9E1F-D8C4B2269332 - 48d906c00baa81a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tech_Assessment.ArticlesViewModel.getArticles() -&gt; ()"
+                  moduleName = "Tech-Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mekhakghapantsyan/Desktop/Tech-Assessment/Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "D3AC564B-0A8E-4985-9E1F-D8C4B2269332 - d091d2e554495dde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Tech_Assessment.ArticleListModel) -&gt; () in Tech_Assessment.ArticlesViewModel.getArticles() -&gt; ()"
+                  moduleName = "Tech-Assessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mekhakghapantsyan/Desktop/Tech-Assessment/Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "534">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1791D01A-D36E-4E4A-8406-A4E72FFEE3BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6CA448B-8018-4DED-9564-C9CFFD3429A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23297380-0638-4AE9-A15A-420D36FDB326"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0FF328F-DF9D-42B7-A879-6D752C2074A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tech-Assessment/Modules/Articles/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
